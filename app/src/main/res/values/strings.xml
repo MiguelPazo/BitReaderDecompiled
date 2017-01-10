@@ -1,0 +1,14 @@
+<resources>
+    <string name="access_location_message">Abilitare la localizzazione per questa applicazione al fine di poter rilevare i dispositivi Bluetooth.</string>
+    <string name="access_location_title">Questa applicazione necessita della localizzazione</string>
+    <string name="acs_ble_item_suffix">ACR3901U-S1</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="app_name">Bit4ID Middleware</string>
+    <string name="bit4id_ble_item_suffix">miniLector BLUE</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Termina</string>
+    <string name="select_ble_device">Scegli il tuo miniLector BLUE tra i dispositivi presenti</string>
+    <string name="select_communication_interface">Scegli l\'interfaccia di comunicazione con la smartcard</string>
+    <string name="select_usb_device">Scegli il tuo miniLector POCKET</string>
+    <string name="unknown_device">Dispositivo sconosciuto</string>
+</resources>
